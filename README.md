@@ -10,7 +10,7 @@ public final class QcO extends Person implements Developer {
   @Override
   public String[] getFreeTimeActivities() {
     return new String[] {
-      "Programming", "Linguistics", "Gaming", "Learning"
+      "Programming", "Linguistics"
     };
   }
   
@@ -27,7 +27,7 @@ public final class QcO extends Person implements Developer {
   
   @Override
   public String getGoal() {
-    return "Improve my skills, develop my projects, have fun, and learn!";
+    return "Make Software that I like";
   }
 }
 ```
