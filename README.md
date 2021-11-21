@@ -45,6 +45,6 @@ public final class QcO extends Person implements Developer {
 <a href="https://github.com/QcO-dev/water">
   <img align="center" style="height=100%" src="https://github-readme-stats.vercel.app/api/pin/?username=QcO-dev&repo=water&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/QcO-dev/fox">
+<a href="https://github.com/QcO-dev/dragon">
   <img align="center" style="height=100%" src="https://github-readme-stats.vercel.app/api/pin/?username=QcO-dev&repo=dragon&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
