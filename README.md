@@ -42,9 +42,9 @@ public final class QcO extends Person implements Developer {
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=QcO-dev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
 </a>
 
-<a href="https://github.com/QcO-dev/water">
-  <img align="center" style="height=100%" src="https://github-readme-stats.vercel.app/api/pin/?username=QcO-dev&repo=water&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/QcO-dev/zephyr">
+  <img align="center" style="height=100%" src="https://github-readme-stats.vercel.app/api/pin/?username=QcO-dev&repo=zephyr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/QcO-dev/dragon">
-  <img align="center" style="height=100%" src="https://github-readme-stats.vercel.app/api/pin/?username=QcO-dev&repo=dragon&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/QcO-dev/feline">
+  <img align="center" style="height=100%" src="https://github-readme-stats.vercel.app/api/pin/?username=QcO-dev&repo=feline&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
